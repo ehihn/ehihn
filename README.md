@@ -1,6 +1,6 @@
 -  Hola, I’m Emanuel
--  I like guitars, synths and 
--  I’m currently learning Ruby
+-  I like guitars, synths and cats
+-  I’m currently learning Ruby (but I'm also a dad so bear with me)
 -  I’m looking to collaborate on music software
 
 <!---
